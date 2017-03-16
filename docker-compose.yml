@@ -1,7 +1,7 @@
 version: '2'
 services:
   web:
-    image: alizapir/zipacote:v2
+    image: alizapir/zipacote:v3
     shm_size: 128m
     stdin_open: true
     ports:

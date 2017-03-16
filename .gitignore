@@ -6,7 +6,6 @@
 !/tmp/.keep
 .byebug_history
 notes
-/config/database.yml
 /db/*.sqlite3
 *.sql
 *.sublime-workspace
